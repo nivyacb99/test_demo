@@ -1,3 +1,4 @@
 welcome to git
 it is so easy
 git is a free and open source distributed version control system
+git is used for data integrity
